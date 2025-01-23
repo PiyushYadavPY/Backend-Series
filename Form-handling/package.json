@@ -1,0 +1,15 @@
+{
+  "name": "form-handling-sessions-and-cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piyush",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cookie-parser": "^1.4.8",
+    "express": "^4.21.2"
+  }
+}
