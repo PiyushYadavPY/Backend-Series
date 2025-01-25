@@ -1,0 +1,15 @@
+1)initalize a project with npm [done]
+  express install
+
+2) setting up parsers for form [done]
+
+3) setting up ejs for ejs pages [done]
+ejs - EJS (Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript
+install ejs from npm
+3.1) setup ejs as a view engine [done]
+ 
+4) setting up public static files ->> CSS images and vanila js
+
+dynamic routing
+
+how to get data coming from frontend to backend
